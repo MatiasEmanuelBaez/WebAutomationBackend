@@ -19,7 +19,7 @@ El proyecto consiste en un backend desarrollado en Python para automatizar la ex
 
 Para almacenar la información extraída se utiliza una tabla productos donde se guarda toda la información relevante de cada producto, y una tabla tasks que mantiene un registro de cada ejecución del scraper.
 
-![alt text](misc\db.png)
+<img src="misc\db.png" width="600" />
 
 ## Páginas soportadas
 
