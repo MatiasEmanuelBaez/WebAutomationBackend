@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+playwright
+pydantic
+databases[postgresql]
+sqlalchemy
+asyncpg
+aiohttp
